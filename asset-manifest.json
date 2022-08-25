@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PartyZzzan77/react-shop/static/css/main.68cbb530.css",
+    "main.js": "/PartyZzzan77/react-shop/static/js/main.b1dd35d1.js",
+    "index.html": "/PartyZzzan77/react-shop/index.html",
+    "main.68cbb530.css.map": "/PartyZzzan77/react-shop/static/css/main.68cbb530.css.map",
+    "main.b1dd35d1.js.map": "/PartyZzzan77/react-shop/static/js/main.b1dd35d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68cbb530.css",
+    "static/js/main.b1dd35d1.js"
+  ]
+}
