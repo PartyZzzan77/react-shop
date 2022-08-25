@@ -15,7 +15,7 @@ const Header = () => {
         <ul id='nav-mobile' className='right hide-on-med-and-down'>
           <li>
             <a
-              href='https://github.com/PartyZzzan77'
+              href='https://github.com/PartyZzzan77/react-shop'
               target='_blank'
               rel='noreferrer'
             >

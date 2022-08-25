@@ -8,7 +8,7 @@ const Footer = () => {
           © {new Date().getFullYear()}Copyright
           <a
             className='grey-text text-lighten-4 right'
-            href='https://github.com/PartyZzzan77'
+            href='https://github.com/PartyZzzan77/react-shop'
             target='_blank'
             rel='noreferrer'
           >
